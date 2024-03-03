@@ -1,0 +1,9 @@
+body {
+    height: 750px; 
+    background-color:rgb(255, 240, 243); 
+    background-image: url(https://i.pinimg.com/736x/af/b1/15/afb115e6216ea5fdb8414939e54c3a98.jpg); 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    background-attachment: fixed; 
+    background-size: cover;
+}
